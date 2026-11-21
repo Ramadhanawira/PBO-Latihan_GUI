@@ -9,15 +9,6 @@ Program GUI sederhana dengan Java Swing untuk belajar konsep dasar GUI: **top le
 - Tombol **Simpan** untuk menampilkan data
 - Tombol **Reset** untuk mengosongkan form
 
-## Konsep yang Dipakai
-
-| Konsep | Komponen |
-|---|---|
-| Top level container | `JFrame` |
-| Intermediate container | `JPanel` |
-| Atomic components | `JLabel`, `JTextField`, `JComboBox`, `JButton` |
-| Layout | `BorderLayout`, `GridLayout`, `FlowLayout` |
-
 ## 5 Komponen Utama
 
 | Komponen | Jenis | Fungsi | Contoh di Kode |
