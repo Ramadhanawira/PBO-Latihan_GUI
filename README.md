@@ -48,13 +48,14 @@ java AplikasiGUI
 
 Sebelum di isi:
 
-<img width="475" height="360" alt="Screenshot 2026-11-21 112324" src="https://github.com/user-attachments/assets/be11a7d3-f0dc-4347-b9e7-004f4bd71e31" />
+Hasil Output1.png
 
 
 
 Setelah di isi:
 
-<img width="693" height="362" alt="Screenshot 2026-11-21 112435" src="https://github.com/user-attachments/assets/641349a0-3e21-49ef-8c3f-0774829af45d" />
+<img width="657" height="357" alt="Hasil Output2" src="https://github.com/user-attachments/assets/7ad8dabf-5de4-44ba-94ea-b389dba72004" />
+
 
 ## Pembuat
 
