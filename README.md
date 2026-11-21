@@ -18,6 +18,24 @@ Program GUI sederhana dengan Java Swing untuk belajar konsep dasar GUI: **top le
 | Atomic components | `JLabel`, `JTextField`, `JComboBox`, `JButton` |
 | Layout | `BorderLayout`, `GridLayout`, `FlowLayout` |
 
+## 5 Komponen Utama
+
+| Komponen | Jenis | Fungsi | Contoh di Kode |
+|---|---|---|---|
+| `JFrame` | Top level container | Jendela utama | `new JFrame("Form Data Mahasiswa")` |
+| `JPanel` | Intermediate container | Mengelompokkan komponen | `new JPanel(new GridLayout(4, 2, 10, 10))` |
+| `JLabel` | Atomic component | Menampilkan teks | `new JLabel("Nama")` |
+| `JTextField` | Atomic component | Kotak isian satu baris | `new JTextField()` |
+| `JButton` | Atomic component | Tombol yang bisa diklik | `new JButton("Simpan")` |
+
+
+### Cara kerja singkat
+
+- **JFrame** : wadah paling atas. `setVisible(true)` menampilkannya.
+- **JPanel** : wadah di dalam frame. Tiap panel bisa punya layout sendiri.
+- **JLabel** : teks keterangan. Isinya bisa diubah dengan `setText()`.
+- **JTextField** : `getText()` mengambil isian, `setText("")` mengosongkan.
+- **JButton** : aksi dipasang dengan `addActionListener`.
 ## Struktur Tampilan
 
 ```
