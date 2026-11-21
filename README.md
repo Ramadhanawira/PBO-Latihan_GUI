@@ -48,7 +48,8 @@ java AplikasiGUI
 
 Sebelum di isi:
 
-Hasil Output1.png
+<img width="478" height="360" alt="Hasil Output1" src="https://github.com/user-attachments/assets/86870ca7-1ade-46c2-8ac4-32a439e76c90" />
+
 
 
 
