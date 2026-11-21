@@ -52,4 +52,5 @@ java AplikasiGUI
 ## Pembuat
 
 *Nama : Wirabuana Ramadhana Jauhari*
+
 *NIM : F1D02510030*
