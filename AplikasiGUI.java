@@ -44,7 +44,7 @@ public class AplikasiGUI {
         JTextField txtNim = new JTextField();
 
         JLabel lblJurusan = new JLabel("Jurusan");
-        String[] daftarJurusan = {"Teknik Informatika", "Teknik Mesin","Teknik Sipil","Teknik Industri","Teknik Elektro"};
+        String[] daftarJurusan = {"-","Teknik Informatika", "Teknik Mesin","Teknik Sipil","Teknik Industri","Teknik Elektro"};
         JComboBox<String> cmbJurusan = new JComboBox<>(daftarJurusan);
 
         JLabel lblHasilJudul = new JLabel("Hasil");
